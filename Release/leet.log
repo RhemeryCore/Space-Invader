@@ -1,0 +1,146 @@
+﻿  main.cpp
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(152,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(153,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(154,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(155,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(156,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(163,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(166,36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(167,36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(181,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(182,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(188,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(189,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(217,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(285,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(286,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(287,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(288,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(295,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(298,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(307,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(310,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(312,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(317,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(318,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(319,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(320,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(367,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(367,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(369,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(443,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(444,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(445,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(446,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(453,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(456,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(462,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(466,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(467,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(468,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(469,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(518,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(518,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(520,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(577,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(586,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(611,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(617,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(623,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(631,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(632,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(651,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(652,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(685,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(692,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(693,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(697,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(698,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(706,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(712,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(718,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(739,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(761,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(762,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(763,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(764,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(766,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(766,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(766,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(766,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(780,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(781,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(808,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(816,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(834,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(860,28): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(919,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(928,28): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(942,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(943,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(944,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(945,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(945,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(946,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(946,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1011,24): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1017,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1053,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1054,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1094,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1112,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1124,84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1160,27): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1162,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1208,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1212,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1219,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1230,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1235,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1278,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1284,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1321,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1352,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1420,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1436,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1445,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1445,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1445,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1445,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1450,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1452,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1458,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1458,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1458,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1458,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1459,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1459,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1463,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1467,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1468,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1470,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1473,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1473,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1473,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1473,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1478,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1572,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1573,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1580,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1580,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1580,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1580,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1595,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1596,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1596,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1598,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1599,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1631,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1633,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1639,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1641,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1643,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1647,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1688,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\main.cpp(1690,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  leet.vcxproj -> C:\Users\there\OneDrive\Plocha\WarhorseTestZadaní\space invaders\Release\leet.exe

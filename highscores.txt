@@ -1,0 +1,16 @@
+RandomGuy0
+10000
+RandomGuy1
+9900
+RandomGuy2
+9800
+RandomGuy3
+9700
+RandomGuy4
+9600
+RandomGuy5
+9500
+RandomGuy6
+9400
+RandomGuy7
+9300
